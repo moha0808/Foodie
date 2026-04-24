@@ -91,28 +91,3 @@ Contributions are welcome!
 This project is open-source and available under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-
-* GitHub: [https://github.com/moha0808](https://github.com/moha0808)
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
-```
-
----
-
-## 💡 If you want it better
-Tell me:
-- Is your project a **website / app / backend system?**
-- Any special features (login, payment, API, etc.)  
-
-I can customize the README to look like a **top GitHub project (with badges, demo links, GIFs, etc.)**.
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://github.com/codewithsadee/foodie?utm_source=chatgpt.com "GitHub - codewithsadee/foodie: Foodie is a fully responsive fast food website."
